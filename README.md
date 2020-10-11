@@ -3,13 +3,12 @@ The project was built using c++ programming language. The objective of the proje
 
 
 
-<img align="right" alt="GIF" src="https://github.com/SAMYAKLJAIN/dbms-php/blob/master/page%20images/reporthostel.png" />
+<img align="right" alt="GIF" src="https://github.com/SAMYAKLJAIN/virtualdoctor/blob/master/Screenshots/home.png" />
 
-<img align="right" alt="GIF" src="https://github.com/SAMYAKLJAIN/dbms-php/blob/master/page%20images/reporthostel.png" />
+<img align="right" alt="GIF" src="https://github.com/SAMYAKLJAIN/virtualdoctor/blob/master/Screenshots/doctorslist.png" />
 
-<img align="right" alt="GIF" src="https://github.com/SAMYAKLJAIN/dbms-php/blob/master/page%20images/reporthostel.png" />
+<img align="right" alt="GIF" src="https://github.com/SAMYAKLJAIN/virtualdoctor/blob/master/Screenshots/treaments.png" />
 
-<img align="right" alt="GIF" src="https://github.com/SAMYAKLJAIN/dbms-php/blob/master/page%20images/reporthostel.png" />
+<img align="right" alt="GIF" src="https://github.com/SAMYAKLJAIN/virtualdoctor/blob/master/Screenshots/Conslutation.png" />
 
-<img align="right" alt="GIF" src="https://github.com/SAMYAKLJAIN/dbms-php/blob/master/page%20images/reporthostel.png" />
 
