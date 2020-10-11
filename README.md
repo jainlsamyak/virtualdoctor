@@ -23,4 +23,4 @@ Consultation Form :
 
 Treament Report :
 
-<img align="right" alt="GIF" src="https://github.com/SAMYAKLJAIN/virtualdoctor/blob/master/Screenshots/Report.p" />
+<img align="right" alt="GIF" src="https://github.com/SAMYAKLJAIN/virtualdoctor/blob/master/Screenshots/Report.png" />
